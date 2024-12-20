@@ -20,7 +20,7 @@ const uint8_t ipBeginCol = 0;
 // LCD SDA and SCL pin numbers
 const uint8_t lcdSdaPin = 1;
 const uint8_t lcdSclPin = 3;
-// size of individual readings buffer
+// Size of individual readings buffer
 const uint8_t indReadBuffSize = 6;
 // Max number of websocket clients
 const std::size_t maxNumClients = 3;
