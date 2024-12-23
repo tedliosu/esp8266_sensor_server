@@ -84,7 +84,8 @@ const char* password = "your-wifi-password-here";
 ```
 
 5. **Upload the Sketch**  
-   Compile and upload the sketch from this repository to the ESP-01S module while it is still connected to your computer.
+    - Unplug and replug the programmer along with the ESP-01S module back into your computer
+    - Compile and upload the sketch from this repository to the ESP-01S module
 
 6. **Reconnect the ESP-01S to the Circuit**  
     - Unplug the USB programmer from your computer, remove the ESP-01S module, and reinsert it into the circuit constructed in Step 1.
