@@ -63,8 +63,9 @@ If you know of alternative sources or compatible products, especially drop-in re
     - Adjusting the board settings.
 
 3. **Upload the LittleFS Filesystem**  
-    - Open the sketch from this repository in the Arduino IDE.
+
     - Remove the ESP8266 ESP-01S module from the circuit constructed in Step 1, insert it into a USB programmer, and connect it to your computer.
+    - Open the sketch from this repository in the Arduino IDE.
     - Press `CTRL + Shift + P` in the Arduino IDE, type "LittleFS," and select the option to upload a LittleFS filesystem.
     - Upload the contents of the [`data`](./data) directory to the ESP-01S module as a LittleFS filesystem.
 
