@@ -1,3 +1,7 @@
+# Project Overview
+
+This project is a simple circuit driven by a ESP8266 ESP-01S microcontroller which reports DHT22 temperature and humidity sensor readings via a web page over a local WiFi network.  The purpose of this project is to showcase my basic skills in microcontroller programming and circuits wiring.  This project uses code and inspiration taken from [this web page](https://randomnerdtutorials.com/esp8266-nodemcu-websocket-server-sensor/).
+
 # Bill of Materials Used
 
 Below is a list of components used in this project. The provided links are for convenience and reference; the author does not receive any commission from these links.
@@ -16,15 +20,15 @@ If you know of alternative sources or compatible products, especially drop-in re
 
 ## Circuit Diagram (Created Using draw.io)
 
-![circuit diagram created using drawio](./connection_diagram_sensor_server_fin.jpg)
+![circuit diagram created using drawio](./pics/connection_diagram_sensor_server_fin.jpg)
 
 ## Real Life Photos of Circuit
 
-![irl photo 1](./irl_circuit_photo_739907.jpg)
+![irl photo 1](./pics/irl_circuit_photo_739907.jpg)
 
-![irl photo 2](./irl_circuit_photo_811079.jpg)
+![irl photo 2](./pics/irl_circuit_photo_811079.jpg)
 
-![irl photo 3](./irl_circuit_photo_832213.jpg)
+![irl photo 3](./pics/irl_circuit_photo_832213.jpg)
 
 # Board Manager URLs, Third-Party Libraries, Plugins, and Settings Used (for Arduino IDE)
 
@@ -48,7 +52,7 @@ If you know of alternative sources or compatible products, especially drop-in re
 
 ## Settings Used
 
-![settings screenshot](./arduino_ide_settings.png)
+![settings screenshot](./pics/arduino_ide_settings.png)
 
 # Instructions for Running This Project
 
