@@ -94,3 +94,8 @@ const char* password = "your-wifi-password-here";
 7. **Access the Sensor Readings**  
    Once powered on, an IP address will be displayed on the LCD screen. Open this IP address in a web browser on a device connected to the same WiFi network to view the DHT22 sensor readings.  
    **Note**: The web interface is accessible only on your local WiFi network.
+
+# Troubleshooting
+
+- Issue: web page of IP address mentioned in step 7 in [Instructions for Running This Project](#instructions-for-running-this-project) displays sensor values each as `nan`.
+    - Solution: power off the circuit and then power it back on
