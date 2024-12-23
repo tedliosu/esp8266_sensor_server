@@ -57,7 +57,7 @@ If you know of alternative sources or compatible products, especially drop-in re
    **Important**: Ensure the ground wire connecting the LCD I2C display to ground is connected to the ground pin on the power module next to the 5V VCC output, not the 3.3V VDD output.
 
 2. **Set Up the Arduino IDE**  
-   Install the [Arduino IDE](https://www.arduino.cc/en/software) if not already installed. Configure the IDE as detailed in the [Board Manager URLs, Third-Party Libraries, Plugins, and Settings Used](#board-manager-urls-third---party-libraries-plugins-and-settings-used-for-arduino-ide) by:
+   Install the [Arduino IDE](https://www.arduino.cc/en/software) if not already installed. Configure the IDE as detailed in the [Board Manager URLs, Third-Party Libraries, Plugins, and Settings Used](#board-manager-urls-third-party-libraries-plugins-and-settings-used-for-arduino-ide) by:
     - Adding the board manager URL.
     - Installing the required third-party libraries and plugins.
     - Adjusting the board settings.
